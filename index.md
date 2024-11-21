@@ -3,7 +3,7 @@
 ## About Me
 Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about creating innovative solutions and contributing to impactful projects. With a strong background in computer science, I strive to deliver value through my work.
 
-![My Photo](p.png)
+![My Photo](ani.jpeg)
 
 ---
 
@@ -11,8 +11,8 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 
 | Degree             | Institution              | Year       |
 |--------------------|--------------------------|------------|
-| Bachelor of Technology in CSE | [MNIT Jaipur] | [2027]     |
-| High School | [Delhi Public School]           | [2022]     |
+| Bachelor of Technology in CSE | MNIT Jaipur | [2027]     |
+| High School | Delhi Public School           | [2022]     |
 
 ---
 
@@ -28,7 +28,7 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 ### [vector dot product]
 **Description:** A brief explanation of the project and its objectives.  
 **Technologies Used:** Python, Flask, SQL  
-[View on GitHub](https://github.com/thesilvrwolfx/silvr's-repo)
+[View on GitHub](https://github.com/thesilvrwolfx/silvr-repo)
 
 ---
 
