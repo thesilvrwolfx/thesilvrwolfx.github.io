@@ -5,9 +5,12 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 
 >[!caution]
 >Hot stuff ahead
+---
 
-![My profile picture](ani.jpeg)
 
+<p align="center">
+<img src=ani.jpeg>
+</p>
 ---
 
 ## Education
