@@ -3,7 +3,7 @@
 ## About Me
 Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about creating innovative solutions and contributing to impactful projects. With a strong background in computer science, I strive to deliver value through my work.
 
-![My Photo](ani.jpeg)
+![My profile picture](ani.jpeg)
 
 ---
 
