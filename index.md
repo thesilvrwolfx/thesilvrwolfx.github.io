@@ -8,9 +8,7 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 ---
 
 
-<p align="center">
-<img src=ani.jpeg>
-</p>
+<p align = "center"><img src = "ani.jpeg"></p>
 ---
 
 ## Education
