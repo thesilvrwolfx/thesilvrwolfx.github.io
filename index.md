@@ -23,9 +23,9 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 ---
 
 ## Skills
-- **Programming Languages:** <span style="color: green">Python, CPP, C </span>
-- **Tools & Technologies:**<span style="color: green"> Git, Docker, LaTeX, DSA</span>
-- **Other Skills:** <span style="color: green">Teamwork, Problem-Solving, Communication</span>
+- **Programming Languages:** Python, CPP, C 
+- **Tools & Technologies:** Git, Docker, LaTeX, DSA
+- **Other Skills:** Teamwork, Problem-Solving, Communication
 
 ---
 
