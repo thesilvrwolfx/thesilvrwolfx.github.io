@@ -11,8 +11,8 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 
 | Degree             | Institution              | Year       |
 |--------------------|--------------------------|------------|
-| Bachelor of Technology in CSE | MNIT Jaipur | [2027]     |
-| High School | Delhi Public School           | [2022]     |
+| Bachelor of Technology in CSE | MNIT Jaipur | 2027    |
+| High School | Delhi Public School           | 2022    |
 
 ---
 
@@ -25,7 +25,7 @@ Hello! I'm Yash Kumar Jain, a Professional Software Developer passionate about c
 
 ## Projects
 
-### [vector dot product]
+### vector dot product
 **Description:** A brief explanation of the project and its objectives.  
 **Technologies Used:** Python, Flask, SQL  
 [View on GitHub](https://github.com/thesilvrwolfx/silvr-repo)
@@ -37,14 +37,14 @@ Outside of work, I enjoy:
 - Traveling and exploring new cultures  
 - Photography  
 - Playing chess  
-- Reading fiction
+- Reading _fiction_
 
 ---
 
 ## Contact
 You can reach me through:  
-- **Email:** [2023ucp1571@mnit.ac.in](mailto:2023ucp1571@mnit.ac.in) 
-- **GitHub:** [github.com/thesilvrwolfx](https://github.com/thesilvrwolfx)
+- `Email:` [2023ucp1571@mnit.ac.in](mailto:2023ucp1571@mnit.ac.in) 
+- `GitHub:` [github.com/thesilvrwolfx](https://github.com/thesilvrwolfx)
 
 ---
 
